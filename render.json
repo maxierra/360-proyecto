@@ -1,0 +1,10 @@
+{
+  "name": "360-proyecto",
+  "type": "web",
+  "buildCommand": "npm run build",
+  "startCommand": "npm run preview",
+  "env": {
+    "VITE_SUPABASE_URL": "https://oibzaqwhbtpbbwzorjyh.supabase.co",
+    "VITE_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9pYnphcXdoYnRwYmJ3em9yanloIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDMwMDUwMTAsImV4cCI6MjA1ODU4MTAxMH0.djT9o_90-NGhtvgDcxlNBwOaElYsJisTlp4SrI9-q3k"
+  }
+}
